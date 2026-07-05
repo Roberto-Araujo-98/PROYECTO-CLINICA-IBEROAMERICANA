@@ -3,7 +3,7 @@
 
 [![Java Version](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-En%20Desarrollo%20/%20Pr%C3%A1ctica-yellow.svg)]()
+![Status](https://img.shields.io/badge/Status-En%20Desarrollo%20/%20Pr%C3%A1ctica-yellow.svg)
 
 Este proyecto consiste en un prototipo funcional para un **Sistema de Gestión Clínica** desarrollado en **Java**. El sistema implementa un entorno de consola robusto con autenticación basada en roles (*Administrador* y *Médico*), control de datos maestros de pacientes y un flujo CRUD (*Create, Read, Update, Delete*) para el registro y seguimiento de episodios clínicos. La persistencia se maneja de forma local mediante archivos planos en formato **CSV**.
 
